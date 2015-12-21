@@ -1,1 +1,3 @@
-# thuron
+# Thuron
+
+Welcome, to the machine!
